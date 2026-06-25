@@ -11,20 +11,19 @@ This project uses **Python (Pandas, Matplotlib, Seaborn)** for data cleaning, KP
 
 ## 📚 Table of Contents
 
-- [🏦 Bank Loan Analysis (Data Analytics Project)
-- [📌 Business Problem / Problem Statement]
-- [🧩 Project Objectives]
-- [📊 Results Snapshot]
-- [🛠️ Tools & Technologies Used]
-- [📊 Dataset Description]
-- [📈 BRD 1 — KPI Requirements]
-- [🔄 BRD 1 — Good Loan vs Bad Loan Analysis]
-- [📉 BRD 2 — Visualization Requirements & Chart Insights]
-- [🧠 Key Insights Summary]
-- [🏦 Business Recommendations]
-- [🧾 Final Conclusion: Loan Portfolio Risk & Strategy]
-- [📁 Project Structure]
-- [🧑‍💻 Author]
+- 🏦 Bank Loan Analysis (Data Analytics Project)
+- 📌 Business Problem / Problem Statement
+- 🧩 Project Objectives
+- 📊 Results Snapshot
+- 🛠️ Tools & Technologies Used
+- 📊 Dataset Description
+- 📈 BRD 1 — KPI Requirements
+- 🔄 BRD 1 — Good Loan vs Bad Loan Analysis
+- 📉 BRD 2 — Visualization Requirements & Chart Insights
+- 🧠 Key Insights Summary
+- 🏦 Business Recommendations
+- 🧾 Final Conclusion: Loan Portfolio Risk & Strategy
+- 🧑‍💻 Author
 
 ---
 
