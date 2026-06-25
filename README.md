@@ -148,73 +148,73 @@ Bad Loans are the main source of losses and require tighter underwriting and bet
 Funding is stable with a strong rise in December, indicating peak demand.
 
 ### 2️⃣ Total Received Amount by Month 
-![Total Amount Received by Month](images/02_Total_Received_Amount_by_Month.png)
+![Total Amount Received by Month](Images/02_Total_Received_Amount_by_Month.png)
 &nbsp; 
 **Insight:** 
 Repayments follow the same pattern — highest collection in December.
 
 ### 3️⃣ Total Loan Applications by Month 
-![Total Amount Received by Month](images/03_Total_Loan_Application_by_Month.png)
+![Total Amount Received by Month](Images/03_Total_Loan_Application_by_Month.png)
 &nbsp; 
 **Insight:** 
 Consistent demand with a noticeable year-end increase.
 
 ### 4️⃣ Total Funded Amount by State  
-![Total Amount Received by Month](images/04_Total_Funded_Amount_by_State.png)
+![Total Amount Received by Month](Images/04_Total_Funded_Amount_by_State.png)
 &nbsp;
 **Insight:** 
 California dominates funding — a major regional concentration risk.
 
 ### 5️⃣ Total Amount Received by State 
-![Total Amount Received by Month](images/05_Total_Amount_Received_by_State.png)
+![Total Amount Received by Month](Images/05_Total_Amount_Received_by_State.png)
 &nbsp;
 **Insight:**  
 CA also generates the highest repayments — confirms over-dependency.
 
 ### 6️⃣ Total Funded Amount by Term  
-![Total Amount Received by Month](images/06_Total_Funded_Amount_by_Term.png)
+![Total Amount Received by Month](Images/06_Total_Funded_Amount_by_Term.png)
 &nbsp;
 **Insight:** 
 36-month loans are the preferred and most funded option.
 
 ### 7️⃣ Total Amount Received by Term  
-![Total Amount Received by Month](images/07_Total_Amount_Received_by_Term.png)
+![Total Amount Received by Month](Images/07_Total_Amount_Received_by_Term.png)
 &nbsp;
 **Insight:** 
 Shorter-term loans produce maximum repayments.
 
 ### 8️⃣ Total Funded Amount by Employee Length  
-![Total Amount Received by Month](images/08_Total_Funded_Amount_by_Employee_Length.png)
+![Total Amount Received by Month](Images/08_Total_Funded_Amount_by_Employee_Length.png)
 &nbsp;
 **Insight:** 
 10+ year employees receive the most funding; <1 year employees remain high-risk.
 
 ### 9️⃣ Total Amount Received by Employee Length  
-![Total Amount Received by Month](images/09_Total_Amount_Received_by_Employee_Length.png)
+![Total Amount Received by Month](Images/09_Total_Amount_Received_by_Employee_Length.png)
 &nbsp;
 **Insight:** 
 Long-term employees generate reliable and high repayments.
 
 ### 🔟 Total Funded Amount by Loan Purpose
-![Total Amount Received by Month](images/10_Total_Funded_Amount_by_Loan_Purpose.png)
+![Total Amount Received by Month](Images/10_Total_Funded_Amount_by_Loan_Purpose.png)
 &nbsp;
 **Insight:**   
 Debt Consolidation dominates — a single point of product risk.
 
 ### 1️⃣1️⃣ Total Amount Received by Loan Purpose  
-![Total Amount Received by Month](images/11_Total_Amount_Received_by_Loan_Purpose.png)
+![Total Amount Received by Month](Images/11_Total_Amount_Received_by_Loan_Purpose.png)
 &nbsp;
 **Insight:** 
 Debt Consolidation also leads revenue — increasing dependency risk.
 
 ### 1️⃣2️⃣ Total Funded Amount by Home Ownership  
-![Total Amount Received by Month](images/12_Total_Funded_Amount_by_Home_Ownership.png)
+![Total Amount Received by Month](Images/12_Total_Funded_Amount_by_Home_Ownership.png)
 &nbsp;
 **Insight:** 
 Mortgage holders receive the most funding — lowest risk group.
 
 ### 1️⃣3️⃣ Total Amount Received by Home Ownership  
-![Total Amount Received by Month](images/13_Total_Amount_Received_by_Home_Ownership.png)
+![Total Amount Received by Month](Images/13_Total_Amount_Received_by_Home_Ownership.png)
 &nbsp;
 **Insight:** 
 Mortgage owners drive the highest repayments.
@@ -274,32 +274,7 @@ Mortgage owners drive the highest repayments.
 ### ✅ Outcome:
 By improving risk control and portfolio balance, the bank can **increase profits**, **reduce default losses**, and build a **sustainable, data-driven lending strategy**.
 
----
 
-## 📁 Project Structure
-```
-├── Bank Loan Analysis.ipynb      # Main analysis notebook
-├── Bank_loan_data.csv            # Dataset file
-├── Business Problem              # Business Problem
-├── Bank Loan Analysis Report.pdf # Full Project Report
-│
-├── images/                       # Folder containing chart images
-│ ├── 01_Total_Funded_Amount_by_Month.png
-│ ├── 02_Total_Received_Amount_by_Month.png
-│ ├── 03_Total_Loan_Applications_by_Month.png
-│ ├── 04_Total_Funded_Amount_by_State.png
-│ ├── 05_Total_Amount_Received_by_State.png
-│ ├── 06_Total_Funded_Amount_by_Term.png
-│ ├── 07_Total_Amount_Received_by_Term.png
-│ ├── 08_Total_Funded_Amount_by_Employee_Length.png
-│ ├── 09_Total_Amount_Received_by_Employee_Length.png
-│ ├── 10_Total_Funded_Amount_by_Loan_Purpose.png
-│ ├── 11_Total_Amount_Received_by_Loan_Purpose.png
-│ ├── 12_Total_Funded_Amount_by_Home_Ownership.png
-│ └── 13_Total_Amount_Received_by_Home_Ownership.png
-│
-└── README.md                     # Project documentation
-```
 
 ---
 
