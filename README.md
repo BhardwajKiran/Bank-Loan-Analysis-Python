@@ -11,20 +11,20 @@ This project uses **Python (Pandas, Matplotlib, Seaborn)** for data cleaning, KP
 
 ## 📚 Table of Contents
 
-- [🏦 Bank Loan Analysis (Data Analytics Project)](#-bank-loan-analysis-data-analytics-project)
-- [📌 Business Problem / Problem Statement](#-business-problem--problem-statement)
-- [🧩 Project Objectives](#-project-objectives)
-- [📊 Results Snapshot](#-results-snapshot)
-- [🛠️ Tools & Technologies Used](#️-tools--technologies-used)
-- [📊 Dataset Description](#-dataset-description)
-- [📈 BRD 1 — KPI Requirements](#-brd-1--kpi-requirements)
-- [🔄 BRD 1 — Good Loan vs Bad Loan Analysis](#-brd-1--good-loan-vs-bad-loan-analysis)
-- [📉 BRD 2 — Visualization Requirements & Chart Insights](#-brd-2--visualization-requirements--chart-insights)
-- [🧠 Key Insights Summary](#-key-insights-summary)
-- [🏦 Business Recommendations](#-business-recommendations)
-- [🧾 Final Conclusion: Loan Portfolio Risk & Strategy](#-final-conclusion-loan-portfolio-risk--strategy-)
-- [📁 Project Structure](#-project-structure)
-- [🧑‍💻 Author](#-author)
+- [🏦 Bank Loan Analysis (Data Analytics Project)
+- [📌 Business Problem / Problem Statement]
+- [🧩 Project Objectives]
+- [📊 Results Snapshot]
+- [🛠️ Tools & Technologies Used]
+- [📊 Dataset Description]
+- [📈 BRD 1 — KPI Requirements]
+- [🔄 BRD 1 — Good Loan vs Bad Loan Analysis]
+- [📉 BRD 2 — Visualization Requirements & Chart Insights]
+- [🧠 Key Insights Summary]
+- [🏦 Business Recommendations]
+- [🧾 Final Conclusion: Loan Portfolio Risk & Strategy]
+- [📁 Project Structure]
+- [🧑‍💻 Author]
 
 ---
 
