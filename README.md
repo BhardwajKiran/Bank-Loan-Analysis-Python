@@ -142,7 +142,7 @@ Bad Loans are the main source of losses and require tighter underwriting and bet
 ## 📉 BRD 2 — Visualization Requirements & Chart Insights
 
 ### 1️⃣ Total Funded Amount by Month  
-![Total Amount Received by Month](images/01_Total_Funded_Amount_by_Month.png)
+![Total Amount Received by Month](Images/01_Total_Funded_Amount_by_Month.png)
 &nbsp;
 **Insight:** 
 Funding is stable with a strong rise in December, indicating peak demand.
